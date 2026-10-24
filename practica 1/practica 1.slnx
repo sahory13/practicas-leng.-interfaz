@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PlantillaEnsamblador/PlantillaEnsamblador.vcxproj" Id="b43f6f40-cfcf-4d61-9db0-ecded7b873df" />
+</Solution>
